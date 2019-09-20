@@ -1,0 +1,64 @@
+.bgcolour{
+  background-color:#2e2c33;
+}
+.whiteFont{
+  color:white;
+  text-align:center;
+  margin:auto;
+  width:70%;
+}
+.imperials{
+  color:black;
+  font-size:large;
+  text-align:center;
+}
+.darkSide{
+  color:darkred;
+  font-weight:bold;
+}
+.lightSide{
+  color:lightblue;
+  font-weight:bold;
+}
+.droid{
+  color:orange;
+  font-weight:bold;
+}
+.ship{
+  color:green;
+  font-weight:bold;
+}
+.link{
+  color:gray;
+}
+.title{
+  font-family:georgia;
+  text-align:center;
+  color:#635e5a;
+}
+.hovertitle:hover{
+  cursor:pointer;
+  color:lightblue;
+}
+.centerImg{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:30%;
+}
+.centerImg2{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:15%;
+}
+header{
+  background-image: url("images/space.jpg");
+  background-color:black;
+}
+footer{
+  background-image: url("images/space.jpg");
+  background-color:black;
+  color:white;
+  text-align:center;
+}
